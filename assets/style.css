@@ -1,0 +1,61 @@
+header{
+    text-align: center;
+}
+
+.logo {
+
+  width: 15vw;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20vw;
+    text-align: left;
+}
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+header p {
+    background-color: rgba(230, 195, 1,0.2);
+}
+hr{
+    width: 50vw;
+    color:aquamarine}
+ #intestazione{
+    color: rgb(42, 42, 105);
+    border-top: 2px solid;
+    border-color: rgb(172, 113, 3);
+    height: 40px;
+ }
+ .head{font-weight: bold;}
+ 
+ .feature{
+    color: orange;
+ }
+ .sezione1 {
+    border-left: 1px solid; 
+    border-color: rgb(250, 142, 0);
+
+ }
+ .feature {
+    padding-left: 10px;
+ }
+ ol li{
+    font-weight: bold;
+ }
+ hr {
+    width: 20vw;
+    height: 1px;
+    background-color: #098fc4;
+    border: none;
+ }
+ blockquote {
+    text-align: center;
+    color: grey;
+ }
+ main{ 
+    margin-left: auto;
+    margin-right: auto;
+ }
